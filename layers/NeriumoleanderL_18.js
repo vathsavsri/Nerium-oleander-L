@@ -1,0 +1,1 @@
+var json_NeriumoleanderL_18 = {"type":"FeatureCollection","name":"NeriumoleanderL_18","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1"},"geometry":{"type":"Point","coordinates":[80.507637163398357,16.463493248970202]}}]}
